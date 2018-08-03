@@ -160,14 +160,14 @@ def animation_nc(P, rho_0, T, res):
 
 
 def main():
-    ctrl = 'nc'
-    #ctrl = 'vsl'
+    #ctrl = 'nc'
+    ctrl = 'vsl'
     #d = 3000
     #d = 4160
     #d = 5000
     d = 6000
-    #C_d = 5200
-    C_d = 7000
+    C_d = 5200
+    #C_d = 7000
     C = 6500
     epsilon = 0.20
     vf = 65
